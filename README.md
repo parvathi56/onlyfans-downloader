@@ -6,11 +6,11 @@ onlyfans-downloader
 Here are 4 public repositories matching this topic...
 -----------------------------------------------------
 
-### [NiREvil](https://github.com/NiREvil) / [OF-DL](https://github.com/NiREvil/OF-DL)
+### [pallavi-2025](https://github.com/pallavi-2025) / [OF-DL](https://github.com/pallavi-2025/OF-DL)
 
-*   [Code](https://github.com/NiREvil/OF-DL)
-*   [Issues](https://github.com/NiREvil/OF-DL/issues)
-*   [Pull requests](https://github.com/NiREvil/OF-DL/pulls)
+*   [Code](https://github.com/pallavi-2025/OF-DL)
+*   [Issues](https://github.com/pallavi-2025/OF-DL/issues)
+*   [Pull requests](https://github.com/pallavi-2025/OF-DL/pulls)
 
 C# console app to download all of the media from Onlyfans accounts with DRM video downloading support
 
@@ -19,11 +19,11 @@ C# console app to download all of the media from Onlyfans accounts with DRM vide
 *   Updated Jan 19, 2024
 *   C#
 
-### [freeofdl](https://github.com/freeofdl) / [free-onlyfans-downloader](https://github.com/freeofdl/free-onlyfans-downloader)
+### [pallavi-2025](https://github.com/pallavi-2025) / [free-onlyfans-downloader](https://github.com/pallavi-2025/free-onlyfans-downloader)
 
-*   [Code](https://github.com/freeofdl/free-onlyfans-downloader)
-*   [Issues](https://github.com/freeofdl/free-onlyfans-downloader/issues)
-*   [Pull requests](https://github.com/freeofdl/free-onlyfans-downloader/pulls)
+*   [Code](https://github.com/pallavi-2025/free-onlyfans-downloader)
+*   [Issues](https://github.com/pallavi-2025/free-onlyfans-downloader/issues)
+*   [Pull requests](https://github.com/pallavi-2025/free-onlyfans-downloader/pulls)
 
 Use Free Onlyfans Downloader Is The Best Way To Download Videos And Pictures From Onlyfans For Free And Without Ads.
 
@@ -45,11 +45,11 @@ Free chrome extension to download videos and photos from your onlyfans account
 *   Updated Feb 1, 2024
 *   JavaScript
 
-### [onlyfans-downloader](https://github.com/onlyfans-downloader) / [onlyfans-download](https://github.com/onlyfans-downloader/onlyfans-download)
+### [automate-xyz](https://github.com/automate-xyz) / [onlyfans-download](https://github.com/automate-xyz/onlyfans-download)
 
-*   [Code](https://github.com/onlyfans-downloader/onlyfans-download)
-*   [Issues](https://github.com/onlyfans-downloader/onlyfans-download/issues)
-*   [Pull requests](https://github.com/onlyfans-downloader/onlyfans-download/pulls)
+*   [Code](https://github.com/automate-xyz/onlyfans-download)
+*   [Issues](https://github.com/automate-xyz/onlyfans-download/issues)
+*   [Pull requests](https://github.com/automate-xyz/onlyfans-download/pulls)
 
 Bulk Onlyfans Downloader
 
